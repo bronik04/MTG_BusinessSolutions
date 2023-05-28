@@ -1,5 +1,5 @@
 # Тестовое задание для МТГ. Бизнес-решения
 
 ## Запуск проекта
-### 'npm run server" для запуска json server
-### `npm start` для запуска проекта 
+### npm run server для запуска json server
+### npm start для запуска проекта 
